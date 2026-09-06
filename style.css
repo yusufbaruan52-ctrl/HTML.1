@@ -1,0 +1,40 @@
+h1{
+  color: Blue;
+  font-size: 40px;
+}
+
+p{
+  color: green;
+  font-size: 24px;
+  font-family: verdana;
+}
+
+address{
+  color: brown;
+  font-size: 24px;
+}
+
+a:link{
+  color: rgb(200 205 02);
+  background-color: transparent;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:visited{
+  color:rgb(200 200 200);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover{
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active{
+  color: green;
+  background-color: none;
+  text-decoration: underline;
+}
